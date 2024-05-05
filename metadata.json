@@ -1,14 +1,14 @@
 {
-  "name": "MUTANT",
-  "symbol": "MUTANT",
-  "description": "Mutantmon: Unleashing the Potential of Hybrid Tokens on Solana",
-  "external_url": "https://www.mutantmon.com/",
-  "image": "https://shdw-drive.genesysgo.net/893AmBr2P9NVydpWc2TAkR3prwBtWMZH2A8RniDmduhn/mmonToken.jpg",
+  "name": "Leblebi",
+  "symbol": "LEB",
+  "description": "Leblebi: Onelebi to Rule Them All!",
+  "external_url": "www.leblebisepeti.com",
+  "image": "https://raw.githubusercontent.com/ozanugur/leblebi/main/Leblebi.webp",
   "properties": {
       "files": [       
           {
-              "type": "image/jpg",
-              "uri": "https://shdw-drive.genesysgo.net/893AmBr2P9NVydpWc2TAkR3prwBtWMZH2A8RniDmduhn/mmonToken.jpg"
+              "type": "image/webp",
+              "uri": "https://raw.githubusercontent.com/ozanugur/leblebi/main/Leblebi.webp"
           }
       ],
       "category": "image"
