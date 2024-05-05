@@ -1,0 +1,16 @@
+{
+  "name": "MUTANT",
+  "symbol": "MUTANT",
+  "description": "Mutantmon: Unleashing the Potential of Hybrid Tokens on Solana",
+  "external_url": "https://www.mutantmon.com/",
+  "image": "https://shdw-drive.genesysgo.net/893AmBr2P9NVydpWc2TAkR3prwBtWMZH2A8RniDmduhn/mmonToken.jpg",
+  "properties": {
+      "files": [       
+          {
+              "type": "image/jpg",
+              "uri": "https://shdw-drive.genesysgo.net/893AmBr2P9NVydpWc2TAkR3prwBtWMZH2A8RniDmduhn/mmonToken.jpg"
+          }
+      ],
+      "category": "image"
+  }
+}
